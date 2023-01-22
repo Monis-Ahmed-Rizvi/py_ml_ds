@@ -1,0 +1,1 @@
+# triangle pattern using loops
